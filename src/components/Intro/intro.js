@@ -2,7 +2,7 @@ import React from "react";
 import "./intro.css";
 import { Link } from "react-scroll";
 import suitcase from "../../assets/icons/icons8-suitcase-64.png";
-import bg from "../../assets/img/DSC_0201.png";
+import bg from "../../assets/img/arnold-fancy.png";
 
 const Intro = () => {
     return (
